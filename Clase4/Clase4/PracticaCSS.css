@@ -1,0 +1,13 @@
+﻿body {
+    width:60%;
+    margin:auto;
+}
+
+.borde{
+    border-bottom:groove;
+    border-bottom-color:lightblue;
+}
+
+.input{
+    border:groove;
+}
